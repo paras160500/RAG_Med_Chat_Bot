@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 data/*.pdf
+chroma_db
