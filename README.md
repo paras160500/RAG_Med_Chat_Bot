@@ -1,5 +1,7 @@
 # 🧠 Medical RAG Chatbot
 
+![Project Architecture](med_chat_architec.png)
+
 > An ultra-lightweight, single-file Retrieval-Augmented Generation (RAG) chatbot that answers questions grounded in your own medical PDF documents — powered by local embeddings and Mistral AI.
 
 ---
