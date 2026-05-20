@@ -97,6 +97,6 @@ def create_rag_chain():
 
     return chain 
 
-chain = create_rag_chain()
+# chain = create_rag_chain()
 
-print(chain.invoke("What is Coagulation disorders? and which medicine i have to take?"))
+# print(chain.invoke("What is Coagulation disorders? and which medicine i have to take?"))
